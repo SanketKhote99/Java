@@ -1,9 +1,17 @@
 package practice;
 public class Practice{
-    public static void main(String[]args){
-        System.out.println("Odd Numbers");
-        for(int i=0;i<10;i++){
-            System.out.println(2*i+1);
-        }
+    private int number;
+    public int getData(){
+        return this.number;
+    }
+    public void setData(int number){
+        this.number=number;
+    }
+}
+class Main{
+    public static void main(String[] args) {
+        Practice num = new Practice();
+        num.setData(99);
+        System.out.println("Number is "+num.getData());
     }
 }

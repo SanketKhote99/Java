@@ -1,10 +1,10 @@
 package Study;
 
-public class Student{
-    Student(){
+public class Constructors{
+    Constructors(){
         System.out.println("Hello Students ");
     }
     public static void main(String[] args) {
-        new Student();
+        new Constructors();
     }
 }
