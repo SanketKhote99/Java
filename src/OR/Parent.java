@@ -4,9 +4,6 @@ public class Parent {
         System.out.println("TVS Starcity ");
     }
     
-   public void Sanket(){
-    System.out.println("hunter");
-}
 }
 
  class Aniket extends Parent{
