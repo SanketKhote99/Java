@@ -1,4 +1,4 @@
-package hw2;
+package Input;
 
 public class CmdLineFloat {
     public static void main(String[] args) {
@@ -7,7 +7,7 @@ public class CmdLineFloat {
                 Float a = Float.parseFloat(args[0]);
                 Float b = Float.parseFloat(args[1]);
                 
-                System.out.println("Addition "+a+b);
+                System.out.println("Addition "+(a+b));
                 System.out.println("Avg"+(a+b)/2);
                 
             }

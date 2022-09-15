@@ -1,4 +1,4 @@
-package hw2;
+package Input;
 
 public class CmdLine {
     public static void main(String[] args) {
@@ -8,7 +8,8 @@ public class CmdLine {
                 int b = Integer.parseInt(args[1]);
                 int c = Integer.parseInt(args[2]);
                 
-                System.out.println("Addition "+a+b+c);
+                System.out.println("Addition "+(a+b+c));
+                System.out.println("Avg "+(a+b+c)/3);
                 
             } catch (NumberFormatException e1) {
                 
