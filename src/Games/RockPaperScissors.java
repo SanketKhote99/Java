@@ -1,4 +1,4 @@
-package practice;
+package Games;
 public class RockPaperScissors {
 public static void main( String args[] )   
 {  

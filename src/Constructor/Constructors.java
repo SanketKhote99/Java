@@ -1,4 +1,4 @@
-package Study;
+package Constructor;
 
 public class Constructors{
     Constructors(){
