@@ -1,4 +1,4 @@
-package Study;
+package AccessPrivateFields;
 public class AccessPrivateFields{
     private String name;
     public String getName(){
