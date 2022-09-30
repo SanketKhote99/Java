@@ -1,4 +1,4 @@
-package practice;
+package Random;
 import java.util.Scanner;
 public class Table  
 {  

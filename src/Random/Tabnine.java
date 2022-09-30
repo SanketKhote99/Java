@@ -1,4 +1,4 @@
-package practice;
+package Random;
 public class Tabnine {
 	static int last_roll = 100;
 	int roll_no;

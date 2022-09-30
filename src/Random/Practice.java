@@ -1,4 +1,4 @@
-package practice;
+package Random;
 public class Practice{
     private int number;
     public int getData(){

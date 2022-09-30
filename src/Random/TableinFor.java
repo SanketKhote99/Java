@@ -1,4 +1,4 @@
-package practice;
+package Random;
 public class TableinFor {
     public static void main(String[] args) {
         int i;
