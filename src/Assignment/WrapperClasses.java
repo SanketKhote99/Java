@@ -1,6 +1,6 @@
 package Assignment;
 
-public class Ex2 {
+public class WrapperClasses {
     public static void main(String[] args) {
     //Wrapper classes 
 

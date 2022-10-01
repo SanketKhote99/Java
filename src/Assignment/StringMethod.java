@@ -1,6 +1,6 @@
 package Assignment;
 //Creating String 2 Ways
-public class Ex1 {
+public class StringMethod {
     public static void main(String[] args) {
         
         //1st Method

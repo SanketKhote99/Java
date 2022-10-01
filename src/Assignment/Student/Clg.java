@@ -1,5 +1,5 @@
 package Assignment.Student;
-public class package2 {
+public class Clg {
     public static void main(String[] args) {
         Student student = new Student();
         Course cource = new Course();

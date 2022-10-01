@@ -9,7 +9,6 @@ package Assignment.Student;
             
             System.out.println("Student list: ");
             System.out.println(student1+"\n"+student2+"\n"+student3+"\n"+student4+"\n"+student5);
-            
         }
     }
 
@@ -23,6 +22,5 @@ package Assignment.Student;
 
         System.out.println("\nCource list: ");
         System.out.println(course1+"\n"+course2+"\n"+course3+"\n"+course4+"\n"+course5);
-        
     }
     }
