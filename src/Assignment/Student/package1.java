@@ -1,6 +1,4 @@
 package Assignment.Student;
-
-public class package1 {
     class Student{
         void StudentName(){
             String student1 = "Sanket";
@@ -28,4 +26,3 @@ public class package1 {
         
     }
     }
-}
